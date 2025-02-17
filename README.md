@@ -1,7 +1,7 @@
 # Fakhruddin "Dean" Lodhi  
 **Data Analyst | BioMedical Equipment Technician**  
 📧 **Email**: Fakhruddinlodhi@hotmail.com  
-🔗 **LinkedIn**: [Fakhruddin Lodhi](https://www.linkedin.com/in/fakhruddinlodhi) | **GitHub**: [Fakhruddinlodhi](https://github.com/Fakhruddinlodhi)  
+🔗 **LinkedIn**: [Fakhruddin Lodhi](https://www.linkedin.com/in/fakhruddinlodhi) 
 🇺🇸 **US Citizen**
 
 ---
