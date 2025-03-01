@@ -3,6 +3,8 @@
 📧 **Email**: Fakhruddinlodhi@hotmail.com  
 🔗 **LinkedIn**: [Fakhruddin Lodhi](https://www.linkedin.com/in/fakhruddinlodhi) 
 
+
+
 🇺🇸 **US Citizen**
 
 ---
@@ -38,7 +40,7 @@ I am currently enrolled in an intensive part-time Data Analytics bootcamp at the
 ---
 
 ## 📑 Data Analytics Projects  
-
+![Fakhruddinlodhi's CodeWars Badge](https://www.codewars.com/users/Fakhruddinlodhi/badges/large)
 ### 🏙️ **City Cemetery Burials (Excel)**  
 - Cleaned and explored a dataset on burials at the **Nashville City Cemetery** (1846-1979) to uncover insights for marketing materials.  
 - Produced visualizations on variables such as age at death by race, burial counts over time, and common causes of death.
