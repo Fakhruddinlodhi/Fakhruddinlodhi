@@ -39,7 +39,9 @@ I am currently enrolled in an intensive part-time Data Analytics bootcamp at the
 
 ---
 
-## 📑 Data Analytics Projects  
+## 📑 Data Analytics Projects 
+**TN Population-Convenience Centers and WildLife Capstone**: [Tableau](https://public.tableau.com/views/TNPopulation-ConvenienceCentersandWildLife/Intro?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 ![Fakhruddinlodhi's CodeWars Badge](https://www.codewars.com/users/Fakhruddinlodhi/badges/large)
 ### 🏙️ **City Cemetery Burials (Excel)**  
 - Cleaned and explored a dataset on burials at the **Nashville City Cemetery** (1846-1979) to uncover insights for marketing materials.  
