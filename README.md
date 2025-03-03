@@ -40,7 +40,7 @@ I am currently enrolled in an intensive part-time Data Analytics bootcamp at the
 ---
 
 ## 📑 Data Analytics Projects 
-**TN Population-Convenience Centers and WildLife Capstone**: [Tableau](https://public.tableau.com/views/TNGrowthConvenienceCentersandWildLife/Intro?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+**TN Population-Convenience Centers and WildLife Capstone**: [Tableau](https://public.tableau.com/views/TNGrowth-ConvenienceCentersandWildLife-CapstoneProject/Intro?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ![Fakhruddinlodhi's CodeWars Badge](https://www.codewars.com/users/Fakhruddinlodhi/badges/large)
 ### 🏙️ **City Cemetery Burials (Excel)**  
